@@ -1,4 +1,4 @@
-# Imobiliária
+# Gestão de Reservas
 
 ## Objetivo
 Este aplicativo tem como objetivo permitir a gestão de reservas de um espaço de trabalho compartilhado (cowork)
